@@ -1,0 +1,17 @@
+■■■ 데이터형 및 변환 ■■■
+
+자료형 		데이터		 메모리크기
+
+boolean 	참과 거짓	 1
+char 		문자		 2
+byte 		정수 		1
+short 		정수		2
+int 		정수		4
+long 		정수		8
+float 		실수		4
+double 		실수		8
+
+
+[자동 형 변환 규칙]
+byte - short - int - long - float-double
+       char  -  
